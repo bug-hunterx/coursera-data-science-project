@@ -1,14 +1,7 @@
 Challenge: Using Satellite Imagery to Predict Food supply
 
+
 The deadline for this challenge is September 29th 2017
-
-Submit an entry for this challenge
-
-If you have any questions about this challenge please post them below
-
-General challenge FAQ
-
-Using Satellite Imagery to Predict Food supply
 
 Overview:
 
