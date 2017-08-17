@@ -73,4 +73,4 @@ This is publicly available data.
 
 These, and any other resources you employ, should be acknowledged in your report.
 
-We will win. 
+We will win for sure. 
